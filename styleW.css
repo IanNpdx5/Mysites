@@ -1,16 +1,12 @@
-.Orbitron {
-  font-family: "Orbitron", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-body {
-  font-family: Arial, sans-serif;
-}
 form {
   font-size: 1.5em;
 }
 .scrambled, input, button {
-  font-family: monospace;
-  font-size: 2em;
+  font-family: "Orbitron", monospace;
+  font-size: 1.3em;
+}
+.Orbitron {
+  font-family: "Orbitron", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
