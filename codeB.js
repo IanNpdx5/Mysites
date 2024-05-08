@@ -1,4 +1,4 @@
-var amount = 1;
+   var amount = 1;
    var count = 0;
    var up1p = 10;
    var up2p = 50;
